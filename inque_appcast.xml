@@ -6,7 +6,7 @@
             <title>Version 1.0.0.3071</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 11 MMay 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=in.rticle.inque" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=in.rticle.inque" sparkle:version="1.0.0+3078" sparkle:os="android" />
         </item>
     </channel>
 </rss>
